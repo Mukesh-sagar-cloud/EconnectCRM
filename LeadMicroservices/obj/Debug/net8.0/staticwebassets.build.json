@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "53tDtENddSVYlmtqxt3/O8aLLX8NEf4q6M52Mrkhvys=",
+  "Source": "LeadMicroservices",
+  "BasePath": "_content/LeadMicroservices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

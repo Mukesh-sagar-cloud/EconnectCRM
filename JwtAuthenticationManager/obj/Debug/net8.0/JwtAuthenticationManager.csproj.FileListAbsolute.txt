@@ -1,0 +1,48 @@
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\JwtAuthenticationManager\bin\Debug\net8.0\JwtAuthenticationManager.deps.json
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\JwtAuthenticationManager\bin\Debug\net8.0\JwtAuthenticationManager.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\JwtAuthenticationManager\bin\Debug\net8.0\JwtAuthenticationManager.pdb
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.csproj.AssemblyReference.cache
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.AssemblyInfoInputs.cache
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.AssemblyInfo.cs
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.csproj.CoreCompileInputs.cache
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\refint\JwtAuthenticationManager.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.pdb
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\ref\JwtAuthenticationManager.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\JwtAuthenticationManager\bin\Debug\net8.0\JwtAuthenticationManager.deps.json
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\JwtAuthenticationManager\bin\Debug\net8.0\JwtAuthenticationManager.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\JwtAuthenticationManager\bin\Debug\net8.0\JwtAuthenticationManager.pdb
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.csproj.AssemblyReference.cache
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.AssemblyInfoInputs.cache
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.AssemblyInfo.cs
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.csproj.CoreCompileInputs.cache
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\refint\JwtAuthenticationManager.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.pdb
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\ref\JwtAuthenticationManager.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\JwtAuthenticationManager\bin\Debug\net8.0\JwtAuthenticationManager.deps.json
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\JwtAuthenticationManager\bin\Debug\net8.0\JwtAuthenticationManager.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\JwtAuthenticationManager\bin\Debug\net8.0\JwtAuthenticationManager.pdb
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.csproj.AssemblyReference.cache
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.AssemblyInfoInputs.cache
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.AssemblyInfo.cs
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.csproj.CoreCompileInputs.cache
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\refint\JwtAuthenticationManager.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.pdb
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\ref\JwtAuthenticationManager.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\JwtAuthenticationManager\bin\Debug\net8.0\JwtAuthenticationManager.deps.json
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\JwtAuthenticationManager\bin\Debug\net8.0\JwtAuthenticationManager.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\JwtAuthenticationManager\bin\Debug\net8.0\JwtAuthenticationManager.pdb
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.csproj.AssemblyReference.cache
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.AssemblyInfoInputs.cache
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.AssemblyInfo.cs
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.csproj.CoreCompileInputs.cache
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\refint\JwtAuthenticationManager.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.pdb
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\JwtAuthenticationManager\obj\Debug\net8.0\ref\JwtAuthenticationManager.dll

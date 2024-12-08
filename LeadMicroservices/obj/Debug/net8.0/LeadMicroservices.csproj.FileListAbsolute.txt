@@ -1,0 +1,244 @@
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.csproj.AssemblyReference.cache
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.AssemblyInfoInputs.cache
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.AssemblyInfo.cs
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.csproj.CoreCompileInputs.cache
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.MvcApplicationPartsAssemblyInfo.cache
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\appsettings.Development.json
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\appsettings.json
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\LeadMicroservices.exe
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\LeadMicroservices.deps.json
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\LeadMicroservices.runtimeconfig.json
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\LeadMicroservices.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\LeadMicroservices.pdb
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Azure.Core.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Azure.Identity.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Entites.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\JwtAuthenticationManager.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Entites.pdb
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\JwtAuthenticationManager.pdb
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets.build.json
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets.development.json
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets\msbuild.LeadMicroservices.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets\msbuild.build.LeadMicroservices.props
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LeadMicroservices.props
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LeadMicroservices.props
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\scopedcss\bundle\LeadMicroservices.styles.css
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicr.D3F2AEC4.Up2Date
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\refint\LeadMicroservices.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.pdb
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.genruntimeconfig.cache
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\ref\LeadMicroservices.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\appsettings.Development.json
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\appsettings.json
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\LeadMicroservices.exe
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\LeadMicroservices.deps.json
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\LeadMicroservices.runtimeconfig.json
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\LeadMicroservices.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\LeadMicroservices.pdb
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Azure.Core.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Azure.Identity.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Entites.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\JwtAuthenticationManager.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Entites.pdb
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\JwtAuthenticationManager.pdb
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.csproj.AssemblyReference.cache
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.AssemblyInfoInputs.cache
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.AssemblyInfo.cs
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.csproj.CoreCompileInputs.cache
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.MvcApplicationPartsAssemblyInfo.cache
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets.build.json
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets.development.json
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets\msbuild.LeadMicroservices.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets\msbuild.build.LeadMicroservices.props
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LeadMicroservices.props
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LeadMicroservices.props
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\scopedcss\bundle\LeadMicroservices.styles.css
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicr.D3F2AEC4.Up2Date
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\refint\LeadMicroservices.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.pdb
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.genruntimeconfig.cache
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\ref\LeadMicroservices.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\appsettings.Development.json
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\appsettings.json
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\LeadMicroservices.exe
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\LeadMicroservices.deps.json
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\LeadMicroservices.runtimeconfig.json
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\LeadMicroservices.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\LeadMicroservices.pdb
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Azure.Core.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Azure.Identity.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Entites.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\JwtAuthenticationManager.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Entites.pdb
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\JwtAuthenticationManager.pdb
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.csproj.AssemblyReference.cache
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.AssemblyInfoInputs.cache
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.AssemblyInfo.cs
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.csproj.CoreCompileInputs.cache
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.MvcApplicationPartsAssemblyInfo.cache
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets.build.json
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets.development.json
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets\msbuild.LeadMicroservices.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets\msbuild.build.LeadMicroservices.props
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LeadMicroservices.props
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LeadMicroservices.props
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\scopedcss\bundle\LeadMicroservices.styles.css
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicr.D3F2AEC4.Up2Date
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\refint\LeadMicroservices.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.pdb
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.genruntimeconfig.cache
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\ref\LeadMicroservices.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\appsettings.Development.json
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\appsettings.json
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\LeadMicroservices.exe
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\LeadMicroservices.deps.json
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\LeadMicroservices.runtimeconfig.json
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\LeadMicroservices.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\LeadMicroservices.pdb
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Azure.Core.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Azure.Identity.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Entites.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\JwtAuthenticationManager.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\Entites.pdb
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\bin\Debug\net8.0\JwtAuthenticationManager.pdb
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.csproj.AssemblyReference.cache
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.AssemblyInfoInputs.cache
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.AssemblyInfo.cs
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.csproj.CoreCompileInputs.cache
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.MvcApplicationPartsAssemblyInfo.cache
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets.build.json
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets.development.json
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets\msbuild.LeadMicroservices.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets\msbuild.build.LeadMicroservices.props
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LeadMicroservices.props
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LeadMicroservices.props
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\scopedcss\bundle\LeadMicroservices.styles.css
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicr.D3F2AEC4.Up2Date
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\refint\LeadMicroservices.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.pdb
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\LeadMicroservices.genruntimeconfig.cache
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\LeadMicroservices\obj\Debug\net8.0\ref\LeadMicroservices.dll

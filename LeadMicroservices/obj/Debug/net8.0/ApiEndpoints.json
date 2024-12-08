@@ -1,0 +1,483 @@
+[
+  {
+    "ContainingType": "LeadMicroservices.Controllers.DynamicControlsController",
+    "Method": "GetControlForEditWithValue",
+    "RelativePath": "api/DynamicControls/GetControlForEditWithValue",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "leadid",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "companyid",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ScreenName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LeadMicroservices.Controllers.DynamicControlsController",
+    "Method": "GetControls",
+    "RelativePath": "api/DynamicControls/GetControls",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CompanyId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ScreenName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Entites.Models.DynamicControls, Entites, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LeadMicroservices.Controllers.DynamicControlsController",
+    "Method": "getControlsWithValues",
+    "RelativePath": "api/DynamicControls/getControlsWithValues",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CompanyId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ScreenName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LeadMicroservices.Controllers.DynamicControlsController",
+    "Method": "GetDynamicControlByLeadId",
+    "RelativePath": "api/DynamicControls/GetDynamicControlByLeadId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CompanyId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ScreenName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "LeadId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LeadMicroservices.Controllers.DynamicControlsController",
+    "Method": "GetDynamicControlPivotedLastInserted",
+    "RelativePath": "api/DynamicControls/GetDynamicControlPivotedLastInserted",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CompanyId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ScreenName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "LeadId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LeadMicroservices.Controllers.DynamicControlsController",
+    "Method": "PostControlValues",
+    "RelativePath": "api/DynamicControls/saveDynamicValues",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "LeadMicroservices.Controllers.DynamicControlsController\u002BAddNewSaveLeadRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LeadMicroservices.Controllers.DynamicControlsController",
+    "Method": "saveOnlyDynamicValues",
+    "RelativePath": "api/DynamicControls/saveOnlyDynamicValues",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "LeadMicroservices.Controllers.DynamicControlsController\u002BAddNewSaveLeadRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LeadMicroservices.Controllers.DynamicControlsController",
+    "Method": "UpdateControlValues",
+    "RelativePath": "api/DynamicControls/updateDynamicValues",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "LeadMicroservices.Controllers.DynamicControlsController\u002BUpdateLeadRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LeadMicroservices.Controllers.DynamicControlsController",
+    "Method": "updateOnlyDynamicValues",
+    "RelativePath": "api/DynamicControls/updateOnlyDynamicValues",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "LeadMicroservices.Controllers.DynamicControlsController\u002BUpdateLeadRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LeadMicroservices.Controllers.EventController",
+    "Method": "AddNewContact",
+    "RelativePath": "api/Event/AddNewContact",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "LeadMicroservices.Controllers.EventController\u002BAddNewContactRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LeadMicroservices.Controllers.EventController",
+    "Method": "GetEventListByCompanyId",
+    "RelativePath": "api/Event/GetEventListByCompanyId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CompanyId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Entites.Models.EventFull, Entites, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LeadMicroservices.Controllers.EventController",
+    "Method": "GetLeadContactListByLeadId",
+    "RelativePath": "api/Event/GetLeadContactListByLeadId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "leadId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LeadMicroservices.Controllers.EventController",
+    "Method": "UpdateLeadContactList",
+    "RelativePath": "api/Event/UpdateLeadContactList",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updatedContact",
+        "Type": "LeadMicroservices.Controllers.EventController\u002BAddNewContactRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LeadMicroservices.Controllers.LeadContactController",
+    "Method": "AddNewContact",
+    "RelativePath": "api/LeadContact/AddNewContact",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "LeadMicroservices.Controllers.LeadContactController\u002BAddNewContactRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LeadMicroservices.Controllers.LeadContactController",
+    "Method": "GetLeadContactListByCompanyId",
+    "RelativePath": "api/LeadContact/GetLeadContactListByCompanyId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CompanyId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Entites.Models.LeadContactList, Entites, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LeadMicroservices.Controllers.LeadContactController",
+    "Method": "GetLeadContactListByLeadId",
+    "RelativePath": "api/LeadContact/GetLeadContactListByLeadId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "leadId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LeadMicroservices.Controllers.LeadContactController",
+    "Method": "UpdateLeadContactList",
+    "RelativePath": "api/LeadContact/UpdateLeadContactList",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updatedContact",
+        "Type": "LeadMicroservices.Controllers.LeadContactController\u002BAddNewContactRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LeadMicroservices.Controllers.LeadFieldsController",
+    "Method": "DeleteLeadFieldById",
+    "RelativePath": "api/LeadFields/DeleteLeadFieldById",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LeadMicroservices.Controllers.LeadFieldsController",
+    "Method": "GetLeadFieldByCompanyId",
+    "RelativePath": "api/LeadFields/GetLeadFieldByCompanyId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CompanyId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ScreenName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Entites.Models.DynamicControls, Entites, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LeadMicroservices.Controllers.LeadFieldsController",
+    "Method": "GetLeadFieldValueByCompanyId",
+    "RelativePath": "api/LeadFields/GetLeadFieldValueByCompanyId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "companyId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Entites.Models.DynamicControlValues, Entites, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LeadMicroservices.Controllers.LeadFieldsController",
+    "Method": "SaveFields",
+    "RelativePath": "api/LeadFields/saveFields",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "LeadMicroservices.Controllers.LeadFieldsController\u002BSaveRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LeadMicroservices.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[LeadMicroservices.WeatherForecast, LeadMicroservices, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

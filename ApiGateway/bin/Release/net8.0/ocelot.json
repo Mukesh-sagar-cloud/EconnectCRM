@@ -1,0 +1,188 @@
+{
+  "Routes": [
+    // Authentication Web API
+    {
+      "UpstreamPathTemplate": "/api/Account/Authenticate",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5072
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Account/Authenticate"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Company/GetCompanyFullData",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5091
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Company/GetCompanyFullData"
+    },
+    {
+      "UpstreamPathTemplate": "/api/User/GetUserFullData",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5094
+        }
+      ],
+      "DownstreamPathTemplate": "/api/User/GetUserFullData"
+    },
+    {
+      "UpstreamPathTemplate": "/api/LeadFields/GetLeadFieldByCompanyId",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5092
+        }
+      ],
+      "DownstreamPathTemplate": "/api/LeadFields/GetLeadFieldByCompanyId"
+    },
+
+    {
+      "UpstreamPathTemplate": "/api/LeadContact/GetLeadContactListByCompanyId",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5092
+        }
+      ],
+      "DownstreamPathTemplate": "/api/LeadContact/GetLeadContactListByCompanyId"
+    },
+
+    {
+      "UpstreamPathTemplate": "/api/LeadContact/AddNewContact",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5092
+        }
+      ],
+      "DownstreamPathTemplate": "/api/LeadContact/AddNewContact"
+    },
+
+    {
+      "UpstreamPathTemplate": "/api/DynamicControls/GetControls",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5092
+        }
+      ],
+      "DownstreamPathTemplate": "/api/DynamicControls/GetControls"
+    },
+
+    {
+      "UpstreamPathTemplate": "/api/DynamicControls/saveDynamicValues",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5092
+        }
+      ],
+      "DownstreamPathTemplate": "/api/DynamicControls/saveDynamicValues"
+    },
+
+    {
+      "UpstreamPathTemplate": "/api/DynamicControls/getControlsWithValues",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5092
+        }
+      ],
+      "DownstreamPathTemplate": "/api/DynamicControls/getControlsWithValues"
+    },
+
+    {
+      "UpstreamPathTemplate": "/api/DynamicControls/GetControlForEditWithValue",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5092
+        }
+      ],
+      "DownstreamPathTemplate": "/api/DynamicControls/GetControlForEditWithValue"
+    },
+
+    {
+      "UpstreamPathTemplate": "/api/LeadContact/GetLeadContactListByLeadId",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5092
+        }
+      ],
+      "DownstreamPathTemplate": "/api/LeadContact/GetLeadContactListByLeadId"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Event/GetEventListByCompanyId",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5092
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Event/GetEventListByCompanyId"
+    },
+    {
+      "UpstreamPathTemplate": "/api/LeadContact/UpdateLeadContactList",
+      "UpstreamHttpMethod": [ "Put" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5092
+        }
+      ],
+      "DownstreamPathTemplate": "/api/LeadContact/UpdateLeadContactList"
+    },
+    {
+      "UpstreamPathTemplate": "/api/DynamicControls/updateDynamicValues",
+      "UpstreamHttpMethod": [ "Put" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5092
+        }
+      ],
+      "DownstreamPathTemplate": "/api/DynamicControls/updateDynamicValues"
+    }
+  ],
+
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:5178",
+    "RateLimitOptions": {
+      "QuotaExceededMessage": "Request not allowed",
+      "HttpStatusCode": 909
+    }
+  }
+}

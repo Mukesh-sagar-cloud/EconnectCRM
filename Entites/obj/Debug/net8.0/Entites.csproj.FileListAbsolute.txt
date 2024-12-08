@@ -1,0 +1,68 @@
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\Entites\bin\Debug\net8.0\Entites.deps.json
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\Entites\bin\Debug\net8.0\Entites.runtimeconfig.json
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\Entites\bin\Debug\net8.0\Entites.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\Entites\bin\Debug\net8.0\Entites.pdb
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\Entites\bin\Debug\net8.0\JwtAuthenticationManager.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\Entites\bin\Debug\net8.0\JwtAuthenticationManager.pdb
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.csproj.AssemblyReference.cache
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.AssemblyInfoInputs.cache
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.AssemblyInfo.cs
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.csproj.CoreCompileInputs.cache
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.csproj.Up2Date
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\Entites\obj\Debug\net8.0\refint\Entites.dll
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.pdb
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.genruntimeconfig.cache
+D:\Gracesoft\Back End School Econ\EconnectSchoolCRM\Entites\obj\Debug\net8.0\ref\Entites.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\Entites\bin\Debug\net8.0\Entites.deps.json
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\Entites\bin\Debug\net8.0\Entites.runtimeconfig.json
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\Entites\bin\Debug\net8.0\Entites.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\Entites\bin\Debug\net8.0\Entites.pdb
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\Entites\bin\Debug\net8.0\JwtAuthenticationManager.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\Entites\bin\Debug\net8.0\JwtAuthenticationManager.pdb
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.csproj.AssemblyReference.cache
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.AssemblyInfoInputs.cache
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.AssemblyInfo.cs
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.csproj.CoreCompileInputs.cache
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.csproj.Up2Date
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\Entites\obj\Debug\net8.0\refint\Entites.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.pdb
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.genruntimeconfig.cache
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRM\Entites\obj\Debug\net8.0\ref\Entites.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\Entites\bin\Debug\net8.0\Entites.deps.json
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\Entites\bin\Debug\net8.0\Entites.runtimeconfig.json
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\Entites\bin\Debug\net8.0\Entites.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\Entites\bin\Debug\net8.0\Entites.pdb
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\Entites\bin\Debug\net8.0\JwtAuthenticationManager.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\Entites\bin\Debug\net8.0\JwtAuthenticationManager.pdb
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.csproj.AssemblyReference.cache
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.AssemblyInfoInputs.cache
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.AssemblyInfo.cs
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.csproj.CoreCompileInputs.cache
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.csproj.Up2Date
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\Entites\obj\Debug\net8.0\refint\Entites.dll
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.pdb
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.genruntimeconfig.cache
+D:\Gracesoft\Back End School Econ\Econnect01102024\EconnectSchoolCRMBackend09102024\EconnectSchoolCRM\Entites\obj\Debug\net8.0\ref\Entites.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\Entites\bin\Debug\net8.0\Entites.deps.json
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\Entites\bin\Debug\net8.0\Entites.runtimeconfig.json
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\Entites\bin\Debug\net8.0\Entites.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\Entites\bin\Debug\net8.0\Entites.pdb
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\Entites\bin\Debug\net8.0\JwtAuthenticationManager.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\Entites\bin\Debug\net8.0\JwtAuthenticationManager.pdb
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.csproj.AssemblyReference.cache
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.AssemblyInfoInputs.cache
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.AssemblyInfo.cs
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.csproj.CoreCompileInputs.cache
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.csproj.Up2Date
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\Entites\obj\Debug\net8.0\refint\Entites.dll
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.pdb
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\Entites\obj\Debug\net8.0\Entites.genruntimeconfig.cache
+C:\Gideon_Work\EconnectSchoolCRM\EconnectSchoolCRM\Entites\obj\Debug\net8.0\ref\Entites.dll
